@@ -1,5 +1,8 @@
 line one
+<<<<<<< HEAD
 line 2
 line 3
 line 4
 
+=======
+>>>>>>> parent of ab724f9... l2 c2
